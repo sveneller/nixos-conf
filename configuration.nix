@@ -107,6 +107,9 @@
     vscode
     nixfmt-classic
     slack
+    terraform    
+    awscli2 
+    nodejs    
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
