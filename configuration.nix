@@ -109,7 +109,8 @@
     slack
     terraform    
     awscli2 
-    nodejs    
+    nodejs 
+    jetbrains.idea-ultimate     
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
