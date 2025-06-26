@@ -110,7 +110,9 @@
     terraform    
     awscli2 
     nodejs 
-    jetbrains.idea-ultimate     
+    jetbrains.idea-ultimate
+    jetbrains.datagrip
+    openjdk21     
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
